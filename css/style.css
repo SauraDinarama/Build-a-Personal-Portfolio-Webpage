@@ -1,0 +1,46 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	line-height: 1.4;
+	background-color: #222831;
+}
+h1,
+h2{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	text-align: center;
+}
+h1{ font-size: 6rem; }
+
+h2{ font-size: 4.2rem; }
+
+.bg-light{
+	background-color: #f05454!important;
+}
+
+nav li a{
+	color: #e8e8e8;
+	/*font: italic bold 12px/30px Georgia, serif;
+	font-family: 'Raleway', sans-serif;*/
+	font-family: Lucida Console, Courier, monospace;
+	font-weight: bold;
+}
+nav li a:hover{
+	color: #222831;
+}
+.main h1{
+	padding: 200px;
+}
+#footer{
+	background-color: #e8e8e8;
+	color: #222831;
+	font-family: 'Poppins' sans-serif;
+}
+#footer h3{
+	padding: 25px;
+}
+footer p{
+	color: #f05454;
+	font-weight: bold;
+	padding: 20px;
+	margin: 0px;
+}
